@@ -17,7 +17,7 @@ nav > ul {
   display: inline;
 }
 
-ul > li {
+.navbar > li {
   display: inline;
 }
 
@@ -160,6 +160,12 @@ a:hover {
   width: 25%;
   float: left;
   margin-right: 30px;
+}
+
+.msp430-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 
 .btn {
